@@ -10,7 +10,7 @@ const randomColor = () => {
 }
 
 const randomPosition = () => {
-    let p = Math.floor(Math.random() * 60) + 1;
+    let p = Math.floor(Math.random() * 68) + 1;
 
     return p + `%`
 
