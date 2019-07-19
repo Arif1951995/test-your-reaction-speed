@@ -5,6 +5,7 @@
     height: 20vh;
     width: 100%;
     padding: 20px;
+    margin: 0 auto;
     text-align: center;
     background: linear-gradient(to right, #0080c0, #803af3);
     color: white;
